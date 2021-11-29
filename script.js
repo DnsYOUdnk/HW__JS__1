@@ -52,4 +52,12 @@ let a1 = 5%3;
         VCilindra = pi * a7**2 / 4 * h;
     console.log(VCilindra);
 
+//Задание 5
+
+    let r = 5;
+        Skruga = pi * r**2;
+    console.log(Skruga);
+
+
+
 
