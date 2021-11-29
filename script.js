@@ -66,6 +66,13 @@ let a1 = 5%3;
         STrap = (a + b) / 2 * h;
     console.log(STrap);
 
+//Задание 7
+
+    let S = parseInt('2000000 рублей');
+        p = parseInt('10%');
+        years = parseInt('5 лет');
+        Pereplata = S * p / 100 * years;
+    console.log(Pereplata + 'рублей');
 
 
 
