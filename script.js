@@ -45,3 +45,11 @@ let a1 = 5%3;
         SPryam = height*width;
     console.log(SPryam, typeof SPryam)
 
+//Задание 4
+
+    let h = 10;
+        pi = 3.14;
+        VCilindra = pi * a7**2 / 4 * h;
+    console.log(VCilindra);
+
+
