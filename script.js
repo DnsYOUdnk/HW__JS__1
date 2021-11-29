@@ -37,3 +37,11 @@ let a1 = 5%3;
     console.log(a16, typeof a16);
     console.log(a17, typeof a17);
     console.log(a18, typeof a18);
+
+//Задание 3 
+
+    let width = 10;
+        height = 23;
+        SPryam = height*width;
+    console.log(SPryam, typeof SPryam)
+
