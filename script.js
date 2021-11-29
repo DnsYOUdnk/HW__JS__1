@@ -58,6 +58,14 @@ let a1 = 5%3;
         Skruga = pi * r**2;
     console.log(Skruga);
 
+//Задание 6
+
+    let a = 5;
+        b = 7; 
+        htr = 10;
+        STrap = (a + b) / 2 * h;
+    console.log(STrap);
+
 
 
 
